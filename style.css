@@ -55,6 +55,7 @@ button[data-type="operator"]{
 
 button[data-type="clear"]{
     background: crimson;
+    grid-column: span 2;
 }
 
 button:hover{
